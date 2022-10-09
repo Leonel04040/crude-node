@@ -1,0 +1,17 @@
+.white_box{
+    width: 30rem;
+    height: 30rem;
+    background-color: white;
+    border-radius: 1rem;
+    position: relative;
+    margin-top: 0rem;
+    margin-left: 24.5rem;
+    padding-top: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+svg{
+    height: 3rem;
+    padding-left: 5rem;margin-top: 2rem;
+}
